@@ -54,7 +54,7 @@
                             <h1 class="font-light text-white">
                                 <i class="fas fa-book"></i>
                             </h1>
-                            <h4 class="text-white">56課程數 {{$courses}}</h4>
+                            <h4 class="text-white">課程數 {{$courses}}</h4>
                         </div>
                     </div>
                 </div>
@@ -65,7 +65,7 @@
                             <h1 class="font-light text-white">
                                 <i class="fas fa-edit"></i>
                             </h1>
-                            <h4 class="text-white">今日練習量 {{$today_data}}</h4>
+                            <h4 class="text-white">今日123練習量 {{$today_data}}</h4>
                         </div>
                     </div>
                 </div>
