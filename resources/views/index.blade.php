@@ -65,7 +65,7 @@
                             <h1 class="font-light text-white">
                                 <i class="fas fa-edit"></i>
                             </h1>
-                            <h4 class="text-white">今日季練習量 {{$today_data}}</h4>
+                            <h4 class="text-white">今日季季練習量 {{$today_data}}</h4>
                         </div>
                     </div>
                 </div>
