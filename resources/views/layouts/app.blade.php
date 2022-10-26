@@ -154,7 +154,7 @@
     </div>
     <footer class="footer">
         <div class="container text-center">
-            <span class="text-muted">COPYRIGHT BY NCUT IM CHUN LIN</span>
+            <span class="text-muted">COPYRIGHT BY NCUT IM CHUN LINE</span>
         </div>
     </footer>
     @guest
